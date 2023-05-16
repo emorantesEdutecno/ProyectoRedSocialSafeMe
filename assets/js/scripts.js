@@ -38,7 +38,6 @@ function enviarDatos(){
 }
 
 
-
 function guardarDatos(){
     // Extraemos del formulario el valor correspondiente
     let valorCajaNombre = document.getElementById('txtNombre').value;
